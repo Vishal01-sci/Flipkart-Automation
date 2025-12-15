@@ -142,6 +142,7 @@ public class Wrappers {
             System.out.println("Image Url of Mug is = " + mugImageUrl.getAttribute("src"));
         }
 
+        
     }
         
         
